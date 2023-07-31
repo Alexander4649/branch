@@ -1,0 +1,11 @@
+C:\Users\teshigawara\source\repos\graphic\graphic\bin\Debug\graphic.exe.config
+C:\Users\teshigawara\source\repos\graphic\graphic\bin\Debug\graphic.exe
+C:\Users\teshigawara\source\repos\graphic\graphic\bin\Debug\graphic.pdb
+C:\Users\teshigawara\source\repos\graphic\graphic\obj\Debug\graphic.csproj.AssemblyReference.cache
+C:\Users\teshigawara\source\repos\graphic\graphic\obj\Debug\graphic.csproj.SuggestedBindingRedirects.cache
+C:\Users\teshigawara\source\repos\graphic\graphic\obj\Debug\graphic.graphic.resources
+C:\Users\teshigawara\source\repos\graphic\graphic\obj\Debug\graphic.Properties.Resources.resources
+C:\Users\teshigawara\source\repos\graphic\graphic\obj\Debug\graphic.csproj.GenerateResource.cache
+C:\Users\teshigawara\source\repos\graphic\graphic\obj\Debug\graphic.csproj.CoreCompileInputs.cache
+C:\Users\teshigawara\source\repos\graphic\graphic\obj\Debug\graphic.exe
+C:\Users\teshigawara\source\repos\graphic\graphic\obj\Debug\graphic.pdb
